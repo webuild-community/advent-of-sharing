@@ -1,7 +1,7 @@
 ---
 title: Clone website một cách có hiệu quả với Vite
 author: ducan-ne
-date: 11-28-2022
+date: 11-27-2022
 ---
 Trong cuộc sống thường ngày của FE dev có trường hợp cần clone 1 website, ko kể website đấy sử dụng framework hay stack gì, đôi khi đó là khách hàng yêu cầu hay là công ty yêu cầu.
 

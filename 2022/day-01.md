@@ -1,7 +1,7 @@
 ---
 title: What's the HSL?
 author: huytd
-date: 11-24-2022
+date: 11-25-2022
 ---
 
 There are many different ways to represent an RGB color when using CSS, for example, using hexadecimal colors (`#RRGGBB`) or using the exact RGB colors (`rgba(R G B alpha)`).

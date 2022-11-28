@@ -1,7 +1,7 @@
 ---
 title: Như thế nào là một font chữ tiếng Việt tốt?
 author: huytd
-date: 11-27-2022
+date: 11-26-2022
 ---
 Trong luận án thạc sĩ Vietnamese Typography của anh Donny Trương, có một chương ảnh có nói về một số thách thức khi thiết kế font hỗ trợ tiếng Việt. Nhưng mà đứng ở góc độ một người “dùng font”, thì đọc vào cũng giúp mình thấy được nhiều kinh nghiệm để có thể lựa được một font tốt. 
 

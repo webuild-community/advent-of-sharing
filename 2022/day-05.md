@@ -35,9 +35,9 @@ date: 11-28-2022
 
 :sunglasses: Đây là những tiểu tiết nhỏ, nhưng sẽ là những phần kiến thức giúp bạn trở thành một frontend developer tốt hơn. Luôn đặt mình vào vị trí của người dùng (cụ thể trong trường hợp này là những người dùng gặp chứng rồi loạn tiền đình) sẽ giúp chúng ta tạo ra được những ứng dụng web chất lượng tốt và thân thiện với người dùng.
 
-https://user-images.githubusercontent.com/613943/204170507-cf1c076b-6942-41cd-a7fb-92109a8488b5.mov
+https://user-images.githubusercontent.com/613943/204171890-1ff95622-a23c-45a0-8305-2a08d1ce339c.mp4
 
-https://user-images.githubusercontent.com/613943/204170533-1bcc4b62-14c6-4813-9699-ad2f7d25b092.mov
+https://user-images.githubusercontent.com/613943/204171900-e0378bb5-8d68-4bb6-b8ff-73b2c9474226.mp4
 
 Nếu dùng Mac các bạn có thể activate Reduce Motion ở đây:
 

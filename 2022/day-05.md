@@ -9,7 +9,7 @@ date: 11-28-2022
 
 :question: Vậy, là một frontend developer, chúng ta cần chú ý đến chi tiết này để không gây ra cảm giác khó chịu cho người dùng. Nhưng chúng ta cũng không thể bỏ hết các motion của một trang web đi được, như thế đối với phần lớn những người dùng có hệ tiền đình ổn định, họ sẽ không có trải nghiệm tốt nhất.
 
-:female-technologist: Rất may là CSS có một media query là `prefers-reduced-motion`. Media query này sẽ kiểm tra xem người dùng có muốn “giảm” chuyển động của trang web không. Settings này sẽ dễ dàng thiết đặt trong hệ điều hành (ảnh 2). Cú pháp của “prefers-reduced-motion” như sau:
+👩‍💻 Rất may là CSS có một media query là `prefers-reduced-motion`. Media query này sẽ kiểm tra xem người dùng có muốn “giảm” chuyển động của trang web không. Settings này sẽ dễ dàng thiết đặt trong hệ điều hành (ảnh 2). Cú pháp của “prefers-reduced-motion” như sau:
 
 ```css
 .box:hover {
@@ -41,5 +41,5 @@ https://user-images.githubusercontent.com/613943/204171900-e0378bb5-8d68-4bb6-b8
 
 Nếu dùng Mac các bạn có thể activate Reduce Motion ở đây:
 
-![image](https://user-images.githubusercontent.com/613943/204170698-6f50d4aa-470d-4df6-ba87-991e8d95d806.png)
+![Navigating to Accessibility in Mac Settings to activate Reduce Motion](https://user-images.githubusercontent.com/613943/204170698-6f50d4aa-470d-4df6-ba87-991e8d95d806.png)
 

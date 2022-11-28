@@ -42,7 +42,7 @@ Sau khi việc dev xong xuôi, việc bạn cần làm là deploy, ở ví dụ 
 - Vì vercel đã có pattern để biết project sử dụng vite, bạn chỉ việc nhấn enter từ đầu đến cuối.
 - Chờ build & deploy lên vercel với url là project-cua-ban.vercel.app
 - Sau khi deploy, nếu bạn cần custom domain, việc của bạn là vào vercel.com project setting => domains, add domain => check => new url ready.
-- 
+
 Tips: sử dụng `vercel build --prod && vercel deploy --prebuilt --prod` để build locally và push built code lên vercel thay vì sử dụng CI của vercel, deploy sẽ nhanh hơn.
 
 Vậy trong vòng 10 phút, bạn đã hoàn thành clone 1 website từ A-Z

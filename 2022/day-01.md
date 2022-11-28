@@ -1,6 +1,6 @@
 ---
 title: What's the HSL?
-author: huytd
+author: @huytd
 date: 11-25-2022
 ---
 

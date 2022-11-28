@@ -38,3 +38,8 @@ date: 11-28-2022
 https://user-images.githubusercontent.com/613943/204170507-cf1c076b-6942-41cd-a7fb-92109a8488b5.mov
 
 https://user-images.githubusercontent.com/613943/204170533-1bcc4b62-14c6-4813-9699-ad2f7d25b092.mov
+
+Nếu dùng Mac các bạn có thể activate Reduce Motion ở đây:
+
+![image](https://user-images.githubusercontent.com/613943/204170698-6f50d4aa-470d-4df6-ba87-991e8d95d806.png)
+

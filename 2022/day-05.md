@@ -41,5 +41,5 @@ https://user-images.githubusercontent.com/613943/204171900-e0378bb5-8d68-4bb6-b8
 
 Nếu dùng Mac các bạn có thể activate Reduce Motion ở đây:
 
-![image](https://user-images.githubusercontent.com/613943/204170698-6f50d4aa-470d-4df6-ba87-991e8d95d806.png)
+![Navigating to Accessibility in Mac Settings to activate Reduce Motion](https://user-images.githubusercontent.com/613943/204170698-6f50d4aa-470d-4df6-ba87-991e8d95d806.png)
 

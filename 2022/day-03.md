@@ -17,3 +17,17 @@ Một số điểm mà trong bài chỉ ra mà chúng ta có thể dùng để l
 Chi tiết các bạn nên đọc trong bài và recommend nên đọc toàn bộ luận văn của tác giả Donny Trương. 
 
 https://vietnamesetypography.com/design-challenges/
+
+---
+
+Comment from @monodyle:
+
+Nói về làm font tiếng Việt, ngày xưa cũng quen thằng em học Đại học Mỹ thuật có quả đồ án làm font. Có ngồi tâm sự trà đá chia sẻ với em thì mình mới biết làm font tiếng Việt so với các font sử dụng chữ latin khác thì tiếng Việt là một cái gì đó rất là.... vl.
+
+Sumary lại một vài ý:
+
+- Tiếng việt có rất nhiều cặp chữ khi đặt cạnh nhau khi làm typeface có weight rất lớn như black hoặc heavy sẽ rất khó để đọc. Ví dụ font Roboto Black có chữ Tì / Tĩ rất khó nhìn vì dấu ~ bị overlap với chữ T
+- Cũng vì lý do âm tiết và dấu trong tiếng Việt nên việc kerning spacing của font cũng rất khó. Ví dụ nếu dùng IBM Plex Sans thì mọi người sẽ thấy việc spacing giữa các chữ Ti hay WA nhìn rát vừa mắt, nhưng mà bỏ vô tiếng Việt mà kerning font như vậy thì chữ Tĩ / Tỉ nhìn rất khó chịu
+- Do những lý do trên nên việc set weight cho dấu cũng rất khó, to quá thì mất cân đối chữ, nhỏ quá thì nó không hoà hợp với font
+
+Làm font tiếng Việt mà nói cũng là một loại nghệ thuật

@@ -20,7 +20,7 @@ https://vietnamesetypography.com/design-challenges/
 
 ---
 
-Comment from @monodyle:
+**Comment from @monodyle:**
 
 Nói về làm font tiếng Việt, ngày xưa cũng quen thằng em học Đại học Mỹ thuật có quả đồ án làm font. Có ngồi tâm sự trà đá chia sẻ với em thì mình mới biết làm font tiếng Việt so với các font sử dụng chữ latin khác thì tiếng Việt là một cái gì đó rất là.... vl.
 
@@ -31,3 +31,12 @@ Sumary lại một vài ý:
 - Do những lý do trên nên việc set weight cho dấu cũng rất khó, to quá thì mất cân đối chữ, nhỏ quá thì nó không hoà hợp với font
 
 Làm font tiếng Việt mà nói cũng là một loại nghệ thuật
+
+**Comment from @thien:**
+
+Tã and Tễu is the unit test of font design in Vietnamese :laughing:
+
+“Lift” -> English has same problems but the “conflicts” are often of the same shapes
+e.g. the horizontal bar of f and t can be perfectly connected in the famous ligature “ft”. Meanwhile, “~” and “T” are not of the same shape, or not even aligned
+
+Fun fact: Donny Trương là advisor của Inter on Vietnamese :adore: that’s why: https://twitter.com/_thiendo/status/1403915963326627840?s=46&t=HgJF1UeHuJod_aB7tIpYBg

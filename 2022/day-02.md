@@ -1,7 +1,7 @@
 ---
 title: Dùng Radix Primitives với Tailwind như nào?
 author: hai
-date: 11-26-2022
+date: 11-25-2022
 ---
 Radix components được cung cấp dưới dạng thô, cho bạn toàn quyền kiểm soát việc tô vẽ CSS.
 

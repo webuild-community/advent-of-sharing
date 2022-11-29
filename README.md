@@ -35,7 +35,7 @@ The event run from November 25th to Decemnber 25th every year.
 		</tr>
 		<tr>
 			<td align="center"><a href="/2022/day-05.md">28</a></td>
-			<td align="center">29</td>
+			<td align="center"><a href="/2022/day-06.md">29</a></td>
 			<td align="center">30</td>
 			<td align="center"> </td>
 			<td align="center"> </td>
@@ -98,6 +98,7 @@ The event run from November 25th to Decemnber 25th every year.
 3. [Như thế nào là một font chữ tiếng Việt tốt?](/2022/day-03.md) - huytd
 4. [Clone website một cách có hiệu quả với Vite](/2022/day-04.md) - ducan-ne
 5. [Reduced Motion](/2022/day-05.md) - nvh95
+6. [Calculating nested border radius](/2022/day-06.md) - huytd
 
 ## 2021
 

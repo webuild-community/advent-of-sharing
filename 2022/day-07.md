@@ -26,7 +26,7 @@ Tuy nhiên có vài thuộc tính sẽ không trigger cả 3 bước trong quá 
 
 Do vậy, chúng ta có thể lợi dụng những thuộc tính này để làm animation hiệu quả hơn. Ví dụ thuộc tính `margin` được xếp vào nhóm đầu, nhưng để thay đổi vị trí của một phần tử, chúng ta có thể lợi dụng thuộc tính `transform` với value là `translateX` để thực hiện chuyển động tương tự.
 
-Để xem các thuộc tính sẽ trigger những bước nào, các bạn có thể tham khảo ở trang này: (https://csstriggers.com/)[https://csstriggers.com/]
+Để xem các thuộc tính sẽ trigger những bước nào, các bạn có thể tham khảo ở trang này: https://csstriggers.com/
 
 _Demo_: https://jsfiddle.net/monodyle/9t7ruwv1/
 

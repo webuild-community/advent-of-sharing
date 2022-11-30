@@ -15,7 +15,7 @@ Khi browser render một trang web tĩnh sẽ có 3 bước:
 
 Cả 3 bước trên sẽ lặp lại thành một quy trình, được gọi là **Composition**.
 
-![image](https://user-images.githubusercontent.com/30283022/204863819-fccfb406-4104-4941-a1db-af0c492073fb.png)
+![image](https://user-images.githubusercontent.com/30283022/204864783-d7d0d089-f3a9-4181-9059-13b07940e50c.png)
 
 Vì việc thực hiện quá trình render là tuyến tính nên phải xong bước này mới đến bước khác, do vậy nếu việc một thuộc tính thay đổi liên tục và thực hiện đủ sẽ dẫn tới việc browser render chậm hơn. Do vậy đại đa số animation chỉ đạt được 30 fps.
 

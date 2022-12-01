@@ -49,7 +49,7 @@ The event run from November 25th to Decemnber 25th every year.
 			<td align="center"> </td>
 			<td align="center"> </td>
 			<td align="center"> </td>
-			<td align="center">1</td>
+			<td align="center"><a href="/2022/day-08.md">1</a></td>
 			<td align="center">2</td>
 			<td align="center">3</td>
 			<td align="center">4</td>
@@ -100,6 +100,7 @@ The event run from November 25th to Decemnber 25th every year.
 5. [Reduced Motion](/2022/day-05.md) - nvh95
 6. [Calculating nested border radius](/2022/day-06.md) - huytd
 7. [Animation Performance trên web hiệu quả](/2022/day-07.md) - monodyle
+8. [Runtime check với Literal Union Types trong TypeScript](/2022/day-08.md) - huytd
 
 ## 2021
 

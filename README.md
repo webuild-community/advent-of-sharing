@@ -50,7 +50,7 @@ The event run from November 25th to Decemnber 25th every year.
 			<td align="center"> </td>
 			<td align="center"> </td>
 			<td align="center"><a href="/2022/day-08.md">1</a></td>
-			<td align="center">2</td>
+			<td align="center"><a href="/2022/day-09.md">2</a></td>
 			<td align="center">3</td>
 			<td align="center">4</td>
 		</tr>

@@ -101,6 +101,7 @@ The event run from November 25th to Decemnber 25th every year.
 6. [Calculating nested border radius](/2022/day-06.md) - huytd
 7. [Animation Performance trên web hiệu quả](/2022/day-07.md) - monodyle
 8. [Runtime check với Literal Union Types trong TypeScript](/2022/day-08.md) - huytd
+9. [Hãy nói về User Activation](/2022/day-09.md) - Bần làm vườn
 
 ## 2021
 

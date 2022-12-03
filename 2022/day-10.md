@@ -1,6 +1,6 @@
 ---
 title: Improve your site security with this one weird trick
-author: @quannt
+author: quannt
 date: 12-03-2022
 ---
 

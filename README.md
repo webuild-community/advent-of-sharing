@@ -51,7 +51,7 @@ The event run from November 25th to Decemnber 25th every year.
 			<td align="center"> </td>
 			<td align="center"><a href="/2022/day-08.md">1</a></td>
 			<td align="center"><a href="/2022/day-09.md">2</a></td>
-			<td align="center">3</td>
+			<td align="center"><a href="/2022/day-10.md">3</a></td>
 			<td align="center">4</td>
 		</tr>
 		<tr>
@@ -102,6 +102,7 @@ The event run from November 25th to Decemnber 25th every year.
 7. [Animation Performance trên web hiệu quả](/2022/day-07.md) - monodyle
 8. [Runtime check với Literal Union Types trong TypeScript](/2022/day-08.md) - huytd
 9. [Hãy nói về User Activation](/2022/day-09.md) - Bần làm vườn
+10. [Improve your site security with this one weird trick](/2022/day-10.md) - quannt
 
 ## 2021
 

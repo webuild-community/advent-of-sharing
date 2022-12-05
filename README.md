@@ -56,7 +56,7 @@ The event run from November 25th to Decemnber 25th every year.
 		</tr>
 		<tr>
 			<td align="center"><a href="/2022/day-12.md">5</a></td>
-			<td align="center">6</td>
+			<td align="center"><a href="/2022/day-13.md">6</a></td>
 			<td align="center">7</td>
 			<td align="center">8</td>
 			<td align="center">9</td>
@@ -105,6 +105,7 @@ The event run from November 25th to Decemnber 25th every year.
 10. [Improve your site security with this one weird trick](/2022/day-10.md) - quannt
 11. [Make your site talk with Web Speech API](/2022/day-11.md) - ZeroX-DG
 12. [Avoid extra useless function in React with useReducer](/2022/day-12.md) - monodyle
+13. [Flexbox Layout hoạt động như thế nào?](/2022/day-13.md) - [ChatGPT](https://chat.openai.com/chat) 🤖
 
 ## 2021
 

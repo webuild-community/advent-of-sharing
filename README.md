@@ -58,7 +58,7 @@ The event run from November 25th to Decemnber 25th every year.
 			<td align="center"><a href="/2022/day-12.md">5</a></td>
 			<td align="center"><a href="/2022/day-13.md">6</a></td>
 			<td align="center"><a href="/2022/day-14.md">7</a></td>
-			<td align="center">8</td>
+			<td align="center"><a href="/2022/day-15.md">8</a></td>
 			<td align="center">9</td>
 			<td align="center">10</td>
 			<td align="center">11</td>
@@ -107,6 +107,7 @@ The event run from November 25th to Decemnber 25th every year.
 12. [Avoid extra useless function in React with useReducer](/2022/day-12.md) - monodyle
 13. [Flexbox Layout hoạt động như thế nào?](/2022/day-13.md) - [ChatGPT](https://chat.openai.com/chat) 🤖
 14. [Reverse proxy/API Gateway on Vercel with vercel.json rewrites or Next.js rewrites](/2022/day-14.md) - ducan-ne
+15. [Spreading (React) Props in TypeScript](/2022/day-15.md) - huytd
 
 ## 2021
 

@@ -55,3 +55,23 @@ const Button: React.FC<ButtonProps> = ({ children, ...props }) => {
   );
 };
 ```
+
+--- 
+
+A follow up comment from **duc**:
+By doing thí, sometimes you'll get an editor's warning, something like this:
+
+![image](https://user-images.githubusercontent.com/613943/206521217-3afc2a94-5db9-41d5-b5ba-ab6928c76cce.png)
+
+The solution is:
+
+```typescript
+// another way that can be applied for all html elements
+// but in some cases it would cause some warnings/errors
+// interface WrappedButtonProps extends React.HTMLProps<HTMLButtonElement> {
+interface WrappedButtonProps extends React.ComponentProps<'button'> {
+  className?: string;
+  children: React.ReactNode;
+}
+```
+

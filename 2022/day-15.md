@@ -39,3 +39,19 @@ const WrappedButton = (props: WrappedButtonProps) => {
     return <button className={className} {...otherProps}>{children}</button>
 };
 ```
+
+Keep in my, this is just a quick and dirty way to handle these kind of tasks. The right way to do it, is to extends the HTMLButtonElement or any element’s type you’re wrapping:
+
+```typescript
+interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
+  children: ReactNode;
+}
+
+const Button: React.FC<ButtonProps> = ({ children, ...props }) => {
+  return (
+    <button {...props}>
+      {children}
+    </button>
+  );
+};
+```

@@ -60,7 +60,7 @@ The event run from November 25th to Decemnber 25th every year.
 			<td align="center"><a href="/2022/day-14.md">7</a></td>
 			<td align="center"><a href="/2022/day-15.md">8</a></td>
 			<td align="center"><a href="/2022/day-16.md">9</a></td>
-			<td align="center">10</td>
+			<td align="center"><a href="/2022/day-17.md">10</a></td>
 			<td align="center">11</td>
 		</tr>
 		<tr>
@@ -109,6 +109,7 @@ The event run from November 25th to Decemnber 25th every year.
 14. [Reverse proxy/API Gateway on Vercel with vercel.json rewrites or Next.js rewrites](/2022/day-14.md) - ducan-ne
 15. [Spreading (React) Props in TypeScript](/2022/day-15.md) - huytd
 16. [You can’t change the stacking context, but you can change the stacking context](/2022/day-16.md) - huytd
+17. [You probably using setTimeout wrong](/2022/day-17.md) - huytd
 
 ## 2021
 

@@ -4,8 +4,6 @@ Advent Of Frontend is the yearly knowledge sharing event, organized by the WeBui
 
 All members of the WeBuild Community can participant in this event, on each day, a member will post a small note to share their knowledge in Frontend/Web development.
 
-The event run from November 25th to Decemnber 25th every year.
-
 ## 2022
 
 <table>
@@ -61,25 +59,25 @@ The event run from November 25th to Decemnber 25th every year.
 			<td align="center"><a href="/2022/day-15.md">8</a></td>
 			<td align="center"><a href="/2022/day-16.md">9</a></td>
 			<td align="center"><a href="/2022/day-17.md">10</a></td>
-			<td align="center">11</td>
+			<td align="center">❄️</td>
 		</tr>
 		<tr>
-			<td align="center">12</td>
-			<td align="center">13</td>
-			<td align="center">14</td>
-			<td align="center">15</td>
-			<td align="center">16</td>
-			<td align="center">17</td>
-			<td align="center">18</td>
+			<td align="center">❄️</td>
+			<td align="center">❄️</td>
+			<td align="center">❄️</td>
+			<td align="center">❄️</td>
+			<td align="center">❄️</td>
+			<td align="center">❄️</td>
+			<td align="center">❄️</td>
 		</tr>
 		<tr>
-			<td align="center">19</td>
-			<td align="center">20</td>
-			<td align="center">21</td>
-			<td align="center">22</td>
-			<td align="center">23</td>
-			<td align="center">24</td>
-			<td align="center">25</td>
+			<td align="center">❄️</td>
+			<td align="center">❄️</td>
+			<td align="center">❄️</td>
+			<td align="center">❄️</td>
+			<td align="center">❄️</td>
+			<td align="center">❄️</td>
+			<td align="center">❄️</td>
 		</tr>
 		<tr>
 			<td align="center"></td>

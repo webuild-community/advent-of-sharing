@@ -59,7 +59,7 @@ All members of the WeBuild Community can participant in this event, on each day,
 			<td align="center"><a href="/2022/day-15.md">8</a></td>
 			<td align="center"><a href="/2022/day-16.md">9</a></td>
 			<td align="center"><a href="/2022/day-17.md">10</a></td>
-			<td align="center">❄️</td>
+			<td align="center"><a href="/2022/day-18.md">11</a></td>
 		</tr>
 		<tr>
 			<td align="center">❄️</td>
@@ -108,6 +108,7 @@ All members of the WeBuild Community can participant in this event, on each day,
 15. [Spreading (React) Props in TypeScript](/2022/day-15.md) - huytd
 16. [You can’t change the stacking context, but you can change the stacking context](/2022/day-16.md) - huytd
 17. [You probably using setTimeout wrong](/2022/day-17.md) - huytd
+18. [Why should you care about half pixel?](/2022/day-18.md) - ZeroX-DG
 
 ## 2021
 

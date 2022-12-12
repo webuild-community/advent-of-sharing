@@ -62,7 +62,7 @@ All members of the WeBuild Community can participant in this event, on each day,
 			<td align="center"><a href="/2022/day-18.md">11</a></td>
 		</tr>
 		<tr>
-			<td align="center">❄️</td>
+			<td align="center"><a href="/2022/day-19.md">12</a></td>
 			<td align="center">❄️</td>
 			<td align="center">❄️</td>
 			<td align="center">❄️</td>
@@ -109,6 +109,7 @@ All members of the WeBuild Community can participant in this event, on each day,
 16. [You can’t change the stacking context, but you can change the stacking context](/2022/day-16.md) - huytd
 17. [You probably using setTimeout wrong](/2022/day-17.md) - huytd
 18. [Why should you care about half pixel?](/2022/day-18.md) - ZeroX-DG
+19. [Tay nắm cửa trong cuộc sống hằng ngày](/2022/day-19.md) - ledongthuc
 
 ## 2021
 

@@ -63,7 +63,7 @@ All members of the WeBuild Community can participant in this event, on each day,
 		</tr>
 		<tr>
 			<td align="center"><a href="/2022/day-19.md">12</a></td>
-			<td align="center">❄️</td>
+			<td align="center"><a href="/2022/day-20.md">13</a></td>
 			<td align="center">❄️</td>
 			<td align="center">❄️</td>
 			<td align="center">❄️</td>
@@ -110,6 +110,7 @@ All members of the WeBuild Community can participant in this event, on each day,
 17. [You probably using setTimeout wrong](/2022/day-17.md) - huytd
 18. [Why should you care about half pixel?](/2022/day-18.md) - ZeroX-DG
 19. [Tay nắm cửa trong cuộc sống hằng ngày](/2022/day-19.md) - ledongthuc
+20. [Chơi chữ cùng Variable Fonts](/2022/day-20.md) - hai
 
 ## 2021
 

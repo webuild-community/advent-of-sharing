@@ -65,7 +65,7 @@ All members of the WeBuild Community can participant in this event, on each day,
 			<td align="center"><a href="/2022/day-19.md">12</a></td>
 			<td align="center"><a href="/2022/day-20.md">13</a></td>
 			<td align="center">❄️</td>
-			<td align="center">❄️</td>
+			<td align="center"><a href="/2022/day-22.md">14</a></td>
 			<td align="center">❄️</td>
 			<td align="center">❄️</td>
 			<td align="center">❄️</td>
@@ -111,6 +111,8 @@ All members of the WeBuild Community can participant in this event, on each day,
 18. [Why should you care about half pixel?](/2022/day-18.md) - ZeroX-DG
 19. [Tay nắm cửa trong cuộc sống hằng ngày](/2022/day-19.md) - ledongthuc
 20. [Chơi chữ cùng Variable Fonts](/2022/day-20.md) - hai
+21.
+22. [Có cần sử dụng debounce trong React 18 không?](/2022/day-22.md) - huy
 
 ## 2021
 

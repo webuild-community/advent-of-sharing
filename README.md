@@ -66,7 +66,7 @@ All members of the WeBuild Community can participant in this event, on each day,
 			<td align="center"><a href="/2022/day-20.md">13</a></td>
 			<td align="center">❄️</td>
 			<td align="center">❄️</td>
-			<td align="center">❄️</td>
+			<td align="center"><a href="/2022/day-23.md">16</a></td>
 			<td align="center">❄️</td>
 			<td align="center">❄️</td>
 		</tr>
@@ -111,6 +111,9 @@ All members of the WeBuild Community can participant in this event, on each day,
 18. [Why should you care about half pixel?](/2022/day-18.md) - ZeroX-DG
 19. [Tay nắm cửa trong cuộc sống hằng ngày](/2022/day-19.md) - ledongthuc
 20. [Chơi chữ cùng Variable Fonts](/2022/day-20.md) - hai
+21. 
+22. 
+23. [Tối ưu Docker Image Size cho Next.js App](/2022/day-23.md) - hai
 
 ## 2021
 

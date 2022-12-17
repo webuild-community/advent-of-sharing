@@ -64,9 +64,9 @@ All members of the WeBuild Community can participant in this event, on each day,
 		<tr>
 			<td align="center"><a href="/2022/day-19.md">12</a></td>
 			<td align="center"><a href="/2022/day-20.md">13</a></td>
-			<td align="center">❄️</td>
-			<td align="center">❄️</td>
-			<td align="center"><a href="/2022/day-23.md">16</a></td>
+      <td align="center"><a href="/2022/day-21.md">14</a></td>
+			<td align="center"><a href="/2022/day-22.md">15</a></td>
+      <td align="center"><a href="/2022/day-23.md">16</a></td>
 			<td align="center">❄️</td>
 			<td align="center">❄️</td>
 		</tr>
@@ -112,7 +112,7 @@ All members of the WeBuild Community can participant in this event, on each day,
 19. [Tay nắm cửa trong cuộc sống hằng ngày](/2022/day-19.md) - ledongthuc
 20. [Chơi chữ cùng Variable Fonts](/2022/day-20.md) - hai
 21. [Debugging vấn đề về performance với PerformanceObserver](/2022/day-21.md) - Bần làm vườn
-22. 
+22. [Có cần sử dụng debounce trong React 18 không?](/2022/day-22.md) - huy
 23. [Tối ưu Docker Image Size cho Next.js App](/2022/day-23.md) - hai
 
 ## 2021

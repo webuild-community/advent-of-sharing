@@ -1,7 +1,7 @@
 ---
 title: Tips to improve canvas performance
 author: ZeroX-DG
-date: 12-17-2022
+date: 12-18-2022
 ---
 
 Cải thiện performance cho canvas rendering là một công chuyện vô cùng thú vị của một front-end developer, vì nó bắt bạn ngụp lội đọc spec, học cách browser hoạt động và phát hiện ra nhiều tool cộ xịn bị giấu trong web developer tools.

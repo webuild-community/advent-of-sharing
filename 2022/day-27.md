@@ -9,7 +9,7 @@ Hầu hết màn hình của các thiết bị điện tử ở thời điểm h
 
 Trước hết, để render ra được một khung hình, trình duyệt có thể cần phải thực hiện những bước sau:
 
-https://raw.githubusercontent.com/huytd/everyday/master/_meta/inside-a-frame.png![image](https://user-images.githubusercontent.com/613943/208791428-04162b06-fa6d-41a1-bce7-3e5b6fe963c5.png)
+![](https://user-images.githubusercontent.com/613943/208791428-04162b06-fa6d-41a1-bce7-3e5b6fe963c5.png)
 
 1. Handle các input event (như touch, mouse wheel, click, keypress,...), thực thi các đoạn code JavaScript trigger từ các timers (setTimeout, setInterval,...)
 2. Nếu sau quá trình thực thi JavaScript mà có các thay đổi về layout hoặc style, thì trình duyệt sẽ phải recalculate lại layout và style cho từng element. Trước đó thì callback được scheduled bởi hàm `requestAnimationFrame` sẽ được gọi.
@@ -19,7 +19,7 @@ Mình xài từ "có thể" ở đây là vì một trong các bước trên ho�
 
 Chi tiết hơn các bạn có thể xem trong hình sau:
 
-https://raw.githubusercontent.com/huytd/everyday/master/_meta/frame-lifecycle.png![image](https://user-images.githubusercontent.com/613943/208791449-2fe28275-53cb-44b9-bfb2-b319cefa3a61.png)
+![](https://user-images.githubusercontent.com/613943/208791449-2fe28275-53cb-44b9-bfb2-b319cefa3a61.png)
 
 Tất cả những bước trên cần phải được thực hiện trong phạm vi 1s / 60Hz ≈ 16ms. Nếu không thì sao?
 

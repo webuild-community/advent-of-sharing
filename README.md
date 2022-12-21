@@ -72,7 +72,7 @@ All members of the WeBuild Community can participant in this event, on each day,
 		</tr>
 		<tr>
 			<td align="center"><a href="/2022/day-26.md">19</a></td>
-			<td align="center">❄️</td>
+			<td align="center"><a href="/2022/day-27.md">20</a></td>
 			<td align="center">❄️</td>
 			<td align="center">❄️</td>
 			<td align="center">❄️</td>
@@ -117,6 +117,7 @@ All members of the WeBuild Community can participant in this event, on each day,
 24. [Vì sao bạn nên ngưng sử dụng unload event và event listener?](/2022/day-24.md) - Bần làm vườn
 25. [Tips to improve canvas performance](/2022/day-25.md) - ZeroX-DG
 26. [Javascript obfuscator and how it actually works](/2022/day-26.md) - ducan-ne
+27. [60 khung hình 1 giây](/2022/day-27.md) - huytd
 
 ## 2021
 

@@ -36,7 +36,8 @@ article > header {
   height: 75lvh;
   background-image: url(cover-illo.jpg);
   background-size: cover;
-}```
+}
+```
 
 Nhóm **Nhỏ** là viewport khi thanh địa chỉ hay scrollbar hiển thị. Bao gồm các units như `svw`, `svh`, `svmin`, và `svmax`. Một ví dụ cụ thể là khi làm modal và chúng ta muốn modal luôn nằm trong vùng nhìn thấy, thay vì bị UI của trình duyệt che lại.
 
@@ -46,7 +47,8 @@ Nhóm **Nhỏ** là viewport khi thanh địa chỉ hay scrollbar hiển thị. 
   height: auto;
   max-width: 100svh;
   max-height: 100svh;
-}```
+}
+```
 
 Hình 2 so sánh giữa Large và Small viewport units
 ![](https://images.prismic.io/12daysofwebdev/714b4e4d-0d28-467c-9571-6946ab487e35_viewports2.png?auto=compress,format)

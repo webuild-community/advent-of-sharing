@@ -22,7 +22,7 @@ Thành ra sẽ có trường hợp `width: 100vw` hay `height: 100vh` nhưng v�
 
 ![](https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/10/100vh_problem.png?ssl=1)
 
-> *JavaScript The More You Know*: 
+> **JavaScript The More You Know**: 
 > 
 > `document.documentElement` chính là thẻ `<html>`, và 2 thuộc tính `document.documentElement.clientWidth`/ `document.documentElement.clientHeight` sẽ trả về chiều dài và chiều cao mà không tính scrollbar vào. Chỉ áp dụng cho `<html>` và `document.body` ở _quirks mode_ thôi.
 
@@ -30,7 +30,8 @@ Chrome 108 vừa phát hành hồi đầu tháng 12 năm nay đánh dấu sự c
 
 Nhóm **Bự** là viewport KHÔNG bao gồm mấy cái linh tinh như thanh địa chỉ hay scrollbar. Tương tự như trên chúng ta sẽ có `lvw`, `lvh`, `lvmin`, và `lvmax`. Một ví dụ thực tế là dùng để tạo cover ở đầu bài viết chẳng hạn.
 
-```article > header {
+```css
+article > header {
   width: 100lvw;
   height: 75lvh;
   background-image: url(cover-illo.jpg);
@@ -39,7 +40,8 @@ Nhóm **Bự** là viewport KHÔNG bao gồm mấy cái linh tinh như thanh đ�
 
 Nhóm **Nhỏ** là viewport khi thanh địa chỉ hay scrollbar hiển thị. Bao gồm các units như `svw`, `svh`, `svmin`, và `svmax`. Một ví dụ cụ thể là khi làm modal và chúng ta muốn modal luôn nằm trong vùng nhìn thấy, thay vì bị UI của trình duyệt che lại.
 
-```.warning {
+```css
+.warning {
   width: 40em;
   height: auto;
   max-width: 100svh;

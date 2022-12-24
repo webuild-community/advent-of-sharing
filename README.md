@@ -1,6 +1,6 @@
 # 🎄 Advent Of Frontend
 
-Advent Of Frontend is the yearly knowledge sharing event, organized by the WeBuild Community. 
+Advent Of Frontend is the yearly knowledge sharing event, organized by the WeBuild Community.
 
 All members of the WeBuild Community can participant in this event, on each day, a member will post a small note to share their knowledge in Frontend/Web development.
 
@@ -118,7 +118,8 @@ All members of the WeBuild Community can participant in this event, on each day,
 25. [Tips to improve canvas performance](/2022/day-25.md) - ZeroX-DG
 26. [Javascript obfuscator and how it actually works](/2022/day-26.md) - ducan-ne
 27. [60 khung hình 1 giây](/2022/day-27.md) - huytd
-27. [Những viewport units mới trong CSS: Bự, Nhỏ, và Linh Động (đậy)](/2022/day-28.md) - kcjpop
+28. [Những viewport units mới trong CSS: Bự, Nhỏ, và Linh Động (đậy)](/2022/day-28.md) - kcjpop
+29. [SSR Hydration](/2022/day-30.md) - thanhle
 
 ## 2021
 

@@ -1,5 +1,5 @@
 ---
-title: Reduce Motion
+title: Reduced Motion
 author: nvh95
 date: 11-28-2022
 ---
@@ -31,7 +31,7 @@ date: 11-28-2022
 
 :gift: Ở đoạn code trên, khi hover vào cái hộp (box), nếu người dùng muốn giảm chuyển động, chiếc hộp sẽ to lên 1.2 lần ngay lập tức. Còn bình thường, nó sẽ to lên 1.2 lần trong 300 ms. Cách này, phần lớn người dùng sẽ có trải nghiệm có animation, còn phần ít hơn số người dùng lựa chọn reduced motion, sẽ không bị chóng mặt.
 
-:movie_camera: Video đính kèm mô tả tính năng này đến từ phần mềm rất quen thuộc là Slack. Khi chúng ta kích hoạt reduce motion, nếu có tin nhắn mới, thông báo sẽ hiện dần dần lên. Còn bình thường, thông báo sẽ đi từ phải trang trái.
+:movie_camera: Video đính kèm mô tả tính năng này đến từ phần mềm rất quen thuộc là Slack. Khi chúng ta kích hoạt reduced motion, nếu có tin nhắn mới, thông báo sẽ hiện dần dần lên. Còn bình thường, thông báo sẽ đi từ phải trang trái.
 
 :sunglasses: Đây là những tiểu tiết nhỏ, nhưng sẽ là những phần kiến thức giúp bạn trở thành một frontend developer tốt hơn. Luôn đặt mình vào vị trí của người dùng (cụ thể trong trường hợp này là những người dùng gặp chứng rồi loạn tiền đình) sẽ giúp chúng ta tạo ra được những ứng dụng web chất lượng tốt và thân thiện với người dùng.
 
@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/613943/204171890-1ff95622-a23c-45a0-83
 
 https://user-images.githubusercontent.com/613943/204171900-e0378bb5-8d68-4bb6-b8ff-73b2c9474226.mp4
 
-Nếu dùng Mac các bạn có thể activate Reduce Motion ở đây:
+Nếu dùng Mac các bạn có thể activate Reduced Motion ở đây:
 
-![Navigating to Accessibility in Mac Settings to activate Reduce Motion](https://user-images.githubusercontent.com/613943/204170698-6f50d4aa-470d-4df6-ba87-991e8d95d806.png)
+![Navigating to Accessibility in Mac Settings to activate Reduced Motion](https://user-images.githubusercontent.com/613943/204170698-6f50d4aa-470d-4df6-ba87-991e8d95d806.png)
 

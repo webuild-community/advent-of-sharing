@@ -120,7 +120,7 @@ All members of the WeBuild Community can participate in this event, on each day,
 | 25  | [Tips to improve canvas performance](/2022/day-25.md)                                                | [ZeroX-DG](https://viethung.space/)        |
 | 26  | [Javascript obfuscator and how it actually works](/2022/day-26.md)                                   | [ducan-ne](https://github.com/ducan-ne)    |
 | 27  | [60 khung hình 1 giây](/2022/day-27.md)                                                              | [huytd](https://huy.rocks)                 |
-| 28  | [Những viewport units mới trong CSS: Bự, Nhỏ, và Linh Động (đậy)](/2022/day-28.md)                   | kcjpop                                     |
+| 28  | [Những viewport units mới trong CSS: Bự, Nhỏ, và Linh Động (đậy)](/2022/day-28.md)                   | [kcjpop](https://ehkoo.com/)               |
 | 29  | [Hướng dẫn dùng Chrome DevTools để đo runtime performance](/2022/day-29.md)                          | [quannt](https://quannt.xyz/)              |
 | 30  | [SSR Hydration](/2022/day-30.md)                                                                     | [thanhle](https://thanhle.blog/)           |
 

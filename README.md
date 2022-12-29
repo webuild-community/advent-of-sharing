@@ -2,7 +2,7 @@
 
 Advent Of Frontend is the yearly knowledge sharing event, organized by the WeBuild Community.
 
-All members of the WeBuild Community can participant in this event, on each day, a member will post a small note to share their knowledge in Frontend/Web development.
+All members of the WeBuild Community can participate in this event, on each day, a member will post a small note to share their knowledge in Frontend/Web development.
 
 ## 2022
 

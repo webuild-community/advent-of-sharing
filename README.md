@@ -74,7 +74,7 @@ All members of the WeBuild Community can participant in this event, on each day,
 			<td align="center"><a href="/2022/day-26.md">19</a></td>
 			<td align="center"><a href="/2022/day-27.md">20</a></td>
 			<td align="center"><a href="/2022/day-28.md">21</a></td>
-			<td align="center">❄️</td>
+			<td align="center"><a href="/2022/day-29.md">22</a></td>
 			<td align="center"><a href="/2022/day-30.md">23</a></td>
 			<td align="center">❄️</td>
 			<td align="center">❄️</td>

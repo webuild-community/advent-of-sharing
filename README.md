@@ -1,5 +1,8 @@
 # 🎄 Advent Of Frontend
 
+[![Written by WeBuild members](https://raw.githubusercontent.com/webuild-community/badge/master/svg/WeBuild-modern.svg)](https://webuild.community)
+[![By Vietnamese](https://raw.githubusercontent.com/webuild-community/badge/master/svg/by-modern.svg)](https://webuild.community)
+
 Advent Of Frontend is the yearly knowledge sharing event, organized by the WeBuild Community.
 
 All members of the WeBuild Community can participate in this event, on each day, a member will post a small note to share their knowledge in Frontend/Web development.

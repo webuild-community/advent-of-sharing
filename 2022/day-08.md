@@ -19,7 +19,7 @@ Quèo, thật ra vẫn có cách để giải quyết vấn đề này!
 Đầu tiên, thay vì define kiểu `AllowedNames` trực tiếp từ những giá trị string literal như ban đầu, thì chúng ta sẽ tạo một mảng const chứa những giá trị đó, rồi define kiểu `AllowedNames` từ mảng đó, bằng cách dùng từ khóa `typeof` như sau:
 
 ```typescript
-const allowedNames = ["Cam" | "Xoài" | "Chuối"] as const;
+const allowedNames = ["Cam", "Xoài", "Chuối"] as const;
 type AllowedNames = typeof allowedNames[number];
 //                = "Cam" | "Xoài" | "Chuối"
 ```

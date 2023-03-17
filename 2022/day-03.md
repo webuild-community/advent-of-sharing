@@ -1,36 +1,37 @@
 ---
-title: Như thế nào là một font chữ tiếng Việt tốt?
+title: What makes a good Vietnamese font?
 author: huytd
 date: 11-26-2022
 ---
-Trong luận án thạc sĩ Vietnamese Typography của anh Donny Trương, có một chương ảnh có nói về một số thách thức khi thiết kế font hỗ trợ tiếng Việt. Nhưng mà đứng ở góc độ một người “dùng font”, thì đọc vào cũng giúp mình thấy được nhiều kinh nghiệm để có thể lựa được một font tốt. 
 
-Một số điểm mà trong bài chỉ ra mà chúng ta có thể dùng để làm tiêu chí đánh giá font, như là: 
+In Donny Trương's Master's thesis on Vietnamese Typography, there is a chapter that discusses some of the challenges in designing fonts that support Vietnamese. But from the perspective of a "font user", reading it can help one gain many experiences in choosing a good font. 
 
-- Vị trí đặt dấu âm tiết của các kí tự khác nhau nên nằm về cùng một hướng, nhất là những dấu âm tiết đi kèm theo các nguyên âm như ế ể ề ứ ứ ứ ớ ớ ớ. Yếu tố này quan trọng vì vị trí đồng nhất sẽ giúp flow đọc của người dùng đồng nhất hơn, dễ đọc hơn, flow quét của mắt sẽ ko bị ngắt quãng. 
-- Ngoài ra, các dấu âm tiết cũng phải cân bằng với kí tự mang nó, ko được rơi vào kí tự trước hoặc sau nó
-- Các nguyên âm có mũ thì dấu mũ phải ở vị trí ngang nhau, ko đc lệch. Ví dụ ư ơ Ư Ơ â ô Â Ô
-- Kích thước của dấu âm tiết cũng rất quan trọng, quá to hoặc quá nhỏ sẽ làm vỡ sự cân bằng, và gây khó đọc
-- Với các mẫu font serif thì độ nhấn/nhả đậm nhạt của nét trong dấu cũng phải đồng nhất với kí tự chứa nó
-- Khi nguyên âm i đi kèm với dấu thì dấu chấm ở đầu chữ i ko nên xuất hiện vì nó thừa
+Some points that the paper points out that we can use as criteria for evaluating the fonts include:
 
-Chi tiết các bạn nên đọc trong bài và recommend nên đọc toàn bộ luận văn của tác giả Donny Trương. 
+- The position of tone marks for different characters should be in the same direction, especially tone marks that accompany vowels like ế ể ề ứ ứ ứ ớ ớ ớ. This element is important because uniform positioning helps with a reader's flow, making it easier to read and avoiding interruptions in the eye's scanning flow. 
+- In addition, tone marks must also be equal in size with the character carrying them, not falling on the character before or after it.
+- Vowels with accents must have the accent mark in the same position, not slanted. For example, ư ơ Ư Ơ â ô Â Ô.
+- The size of the tone marks is very important, as being too large or too small will disrupt the balance and make it difficult to read. 
+- For serif fonts, the boldness/lightness of the strokes in the marks should be consistent with the character containing them. 
+- When the vowel i is accompanied by a tone mark, the dot above the i does not need to appear because it is redundant.
 
-https://vietnamesetypography.com/design-challenges/
+For more information, I recommend reading entire thesis of the author Donny Trương. 
+
+Link: https://vietnamesetypography.com/design-challenges/
 
 ---
 
 **Comment from @monodyle:**
 
-Nói về làm font tiếng Việt, ngày xưa cũng quen thằng em học Đại học Mỹ thuật có quả đồ án làm font. Có ngồi tâm sự trà đá chia sẻ với em thì mình mới biết làm font tiếng Việt so với các font sử dụng chữ latin khác thì tiếng Việt là một cái gì đó rất là.... vl.
+Speaking of making Vietnamese fonts, I used to know a friend who studied at a College of Fine Arts and had a thesis to create a font. When we sat down for some iced tea, my friend told me that making Vietnamese fonts compared to other fonts that use the Latin alphabet is something very...difficult. 
 
-Sumary lại một vài ý:
+Here is a summary of a few points:
 
-- Tiếng việt có rất nhiều cặp chữ khi đặt cạnh nhau khi làm typeface có weight rất lớn như black hoặc heavy sẽ rất khó để đọc. Ví dụ font Roboto Black có chữ Tì / Tĩ rất khó nhìn vì dấu ~ bị overlap với chữ T
-- Cũng vì lý do âm tiết và dấu trong tiếng Việt nên việc kerning spacing của font cũng rất khó. Ví dụ nếu dùng IBM Plex Sans thì mọi người sẽ thấy việc spacing giữa các chữ Ti hay WA nhìn rát vừa mắt, nhưng mà bỏ vô tiếng Việt mà kerning font như vậy thì chữ Tĩ / Tỉ nhìn rất khó chịu
-- Do những lý do trên nên việc set weight cho dấu cũng rất khó, to quá thì mất cân đối chữ, nhỏ quá thì nó không hoà hợp với font
+- Vietnamese has many pairs of letter that when placed side by side, are very difficult to read when making a typeface with a heavy weight like black or heavy. For example, the font Roboto Black has the letters Tì / Tĩ that are very difficult to see because the ~ overlaps with the T. 
+- Also because of the syllables and tone marks in Vietnamese, kerning spacing for fonts is also very difficult. For example, if using IBM Plex Sans, people will see that the spacing between letters Ti or WA looks pleasing to the eye, but when applied to Vietnanese and kerned with a font like that, the letters Tĩ / Tỉ look very uncomfortable.
+- For the reason above, setting the weight for the tone marks is also very hard. If it is too large, the characters will lose balance, and if it is too small, it will not harmonize with the font. 
 
-Làm font tiếng Việt mà nói cũng là một loại nghệ thuật
+Making Vietnamese fonts is also kind of an art. 
 
 **Comment from @thien:**
 

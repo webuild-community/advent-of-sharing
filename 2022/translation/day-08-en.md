@@ -1,22 +1,24 @@
 ---
-title: Runtime check với Literal Union Types trong TypeScript
+title: Runtime check with Literal Union Types in TypeScript
 author: huytd
 date: 12-01-2022
 ---
 
-Literal Union Types là một cách rất tiện lợi để giới hạn một kiểu vào một tập các giá trị literal (string literal), ví dụ:
+Literal Union Types are a very convenient way to limit a set of literal values (string literals), for example:
 
 ```typescript
 type AllowedNames = "Cam" | "Xoài" | "Chuối"
 ```
 
-Nhưng mà mọi thứ feature hay ho trong TypeScript thì chỉ tồn tại ở compile time, sau khi build ra JS code là xong.
+However, all the fancy features in TypeScript exist at compile time, and after the JS code is built, it's done.
 
-Một ví dụ là, ở đây mình muốn tận dụng kiểu `AllowedNames` để viết một hàm chỉ nhận vào tham số có giá trị khớp với một trong những giá trị `Cam`, `Xoài`, `Chuối` của kiểu `AllowedNames` ở trên. Nhưng ngặt một nỗi, những giá trị đó chỉ tồn tại ở type level, không phải ở runtime.
+For example, here I want to use `AllowedNames` to write a function that only accepts one parameter with a value that matches one of the `Orange`, `Mango`, `Banana` values of the `AllowedNames` type above. Unfortunately, those values only exist at the type level, not at runtime.
 
-Quèo, thật ra vẫn có cách để giải quyết vấn đề này!
+Well, there is actually a way to solve this issue!
 
-Đầu tiên, thay vì define kiểu `AllowedNames` trực tiếp từ những giá trị string literal như ban đầu, thì chúng ta sẽ tạo một mảng const chứa những giá trị đó, rồi define kiểu `AllowedNames` từ mảng đó, bằng cách dùng từ khóa `typeof` như sau:
+
+First, instead of defining `AllowedNames` directly from string literal values as before, we will create a const array containing those values, and then define the `AllowedNames` from that array, by using the `typeof` keyword like this: 
+
 
 ```typescript
 const allowedNames = ["Cam", "Xoài", "Chuối"] as const;
@@ -24,7 +26,8 @@ type AllowedNames = typeof allowedNames[number];
 //                = "Cam" | "Xoài" | "Chuối"
 ```
 
-Rồi, bằng cách này, chúng ta vừa có danh sách `allowedNames` ở runtime, vừa có kiểu `AllowedNames` ở type level luôn! Việc cần làm chỉ là viết hàm kiểm tra giá trị theo yêu cầu ban đầu:
+Then, from this method, we have the `allowedNames` at runtime as well as the `AllowedNames` type at the type level! All we need to do is write a function to check the value as required:
+
 
 ```typescript
 const isNameAllowed = (input: unknown): input is AllowedNames => {
@@ -43,13 +46,14 @@ console.log(checkName("Chuối")); // Output: "Chuối"
 console.log(checkName("Cà Rốt")); // [ERR]: Please use one of the allowed name!
 ```
 
-Quá xịn!
+Awesome!
 
-Ủa, nhưng mà vì sao đoạn code trên lại chạy? `as const` là cái gì? `typeof cái_enum[number]` là cái gì???
+Wait, why does the code above run? What is `as const`? What is `typeof allowedNames[number]`???
 
-Đây là khúc bản chất hại não của TypeScript bắt đầu.
+This is where the brain-hurting part of Typescript begins.
 
-Đầu tiên, sẽ như thế nào nếu ta ko dùng từ khóa `as const`?
+First, what if we don't use the `as const` keyword?
+
 
 ```typescript
 const allowedNames = ["Cam" | "Xoài" | "Chuối"];
@@ -58,9 +62,10 @@ type t0 = typeof allowedNames[0]; // t0 == string
 type t1 = typeof allowedNames[1]; // t1 == string
 ```
 
-Rất đơn giản, mảng `allowedNames` sẽ là một mảng của các `string`, và mỗi phần tử trong mảng `allowedNames` sẽ có kiểu `string`.
+Very simple, `allowedNames` will be an array of `string`s, and each element in the `allowedNames` array will have be of `string` type. 
 
-Từ khóa `as const` (hay còn gọi là [const assertion](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-4.html#const-assertions)) có tác dụng báo cho TypeScript compiler biết rằng, các phần tử của mảng `allowedNames` là các giá trị `readonly`. Điều này có nghĩa là gì? Có nghĩa là, các phần tử này không còn khả năng thay đổi giá trị nữa, suy ra kiểu của mỗi phần tử trong mảng này chắc chắn sẽ là các literal type với chính giá trị của nó, chứ không nhất thiết phải là một kiểu rộng như `string` nữa.
+The `as const` (also known as [const assertion](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-4.html#const-assertions)) has the function of telling the Typescript compiler that the elements of the `allowedNames` array are `readonly`. What does this mean? It means that these elements can no longer change their values, so the type of each element in this array will definitely be literal types with its own value, instead of necessarily being a wider type like `string`. 
+
 
 ```typescript
 const allowedNames = ["Cam" | "Xoài" | "Chuối"] as const;
@@ -69,10 +74,10 @@ type t0 = typeof allowedNames[0]; // t0 == "Cam"
 type t1 = typeof allowedNames[1]; // t1 == "Xoài"
 ```
 
-Như thế là xong phần `as const`. 
+That's the `as const` part done. 
 
-Tiếp, như các bạn thấy ở 2 ví dụ trên, ta có thể lấy ra type của một phần tử bằng cách dùng từ khóa `typeof <Mảng>[index]`. Còn cách dùng `typeof <Mảng>[number]` là một dạng [Indexed Access Type](https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html), trả về một union chứa **tất cả các kiểu có thể có** của **tất cả mọi phần tử** có trong mảng. Xài `number` là vì chúng ta truy xuất đến các phần tử của mảng bằng một index kiểu `number`.
+Next, like the two examples you can see above, we can get the type of an element by using the `typeof <Array>[index]` syntax. The use of `typeof <Array>[index]` is a type of [Indexed Access Type](https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html), returning a union type containing **all possible types** of **every element** in the array. The reason why `number` is used is because we access elements the elements of the array using a `number` type index.  
 
-Như vậy, `typeof allowedNames[number]` sẽ trả về một union type chứa kiểu của tất cả mọi phần tử trong mảng `allowedNames`, và các kiểu ấy là `"Cam" | "Xoài" | "Chuối"`.
+Thus, `typeof allowedNames[number]` will return a union type containing the types of all elements in the `allowedNames` array, which are `"Cam" | "Xoài" | "Chuối"`.
 
-Hy vọng qua bài viết này, các bạn cũng thấy thêm được sự lợi hại của TypeScript. Riêng mình thì đã thấy nó rất chi là hại não rồi.
+Hopefully from this post, you also see the benefits of Typescript. Personally, I have already seen how it can really hurt my brain.

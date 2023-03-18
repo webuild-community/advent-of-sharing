@@ -1,7 +1,7 @@
 ---
-title: Runtime check with Literal Union Types in TypeScript
-author: huytd
-date: 12-01-2022
+Title: Runtime check with Literal Union Types in TypeScript
+Author: huytd
+Date: 12-01-2022
 ---
 
 Literal Union Types are a very convenient way to limit a set of literal values (string literals), for example:

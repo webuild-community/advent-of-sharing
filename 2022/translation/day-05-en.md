@@ -3,13 +3,15 @@ title: Reduced Motion
 author: nvh95
 date: 11-28-2022
 ---
-:runner: Animation/ Motion là một phần rất quan trọng trong các ứng dụng web, khiến các trang web trở nên sống động, thú vị và “thật” hơn rất nhiều. Tuy nhiên, nhiều người sẽ không thể chịu được việc có quá nhiều chuyển động, sẽ khiến họ bị chóng mặt, hoa mắt, đau đầu hay buồn nôn.
 
-:brain: Bình thường thì hệ tiền đình (gồm tai trong và các bộ phận của não) sẽ giúp chúng ta cân bằng. Tuy nhiên đối với nhiều người, animation có thể sẽ khiến hệ tiền đình của họ bị mất cân bằng và gây ra chứng rối loạn tiền đình (vestibular disorders), tạo nên cảm giác khó chịu cho người dùng, mà triệu chứng điển hình nhất là chóng mặt.
+:runner: Animation/Motion is a very important part of web applications, making web pages more lively, interesting, and "real". However, many people may not be able to tolerate too much motion, which can cause dizziness, blurred vision, headaches, or nausea.
 
-:question: Vậy, là một frontend developer, chúng ta cần chú ý đến chi tiết này để không gây ra cảm giác khó chịu cho người dùng. Nhưng chúng ta cũng không thể bỏ hết các motion của một trang web đi được, như thế đối với phần lớn những người dùng có hệ tiền đình ổn định, họ sẽ không có trải nghiệm tốt nhất.
+:brain: Normally, the vestibular system (including the inner ears and parts of the brain) helps us balance. However, for many people, animation may cause their vestibular system to become unbalanced and lead to vestibular disorders, creating discomfort for the user, with the most typical symptom being dizziness.
 
-👩‍💻 Rất may là CSS có một media query là `prefers-reduced-motion`. Media query này sẽ kiểm tra xem người dùng có muốn “giảm” chuyển động của trang web không. Settings này sẽ dễ dàng thiết đặt trong hệ điều hành (ảnh 2). Cú pháp của “prefers-reduced-motion” như sau:
+:question: Therefore, as a frontend developer, we need to pay attention to this detail so as not to create discomfort for the user. But we also cannot remove all motion from a web page, as for most users with stable vestibular systems, they will not have the best experience.
+
+👩‍💻 Fortunately, CSS has a media query called "prefers-reduced-motion". This media query will check to see if the user wants to "reduce" the motion of the web page. This setting can be easily configured in the operating system (image 2). The syntax of "prefers-reduced-motion" is as follows:
+
 
 ```css
 .box:hover {
@@ -29,17 +31,17 @@ date: 11-28-2022
 }
 ```
 
-:gift: Ở đoạn code trên, khi hover vào cái hộp (box), nếu người dùng muốn giảm chuyển động, chiếc hộp sẽ to lên 1.2 lần ngay lập tức. Còn bình thường, nó sẽ to lên 1.2 lần trong 300 ms. Cách này, phần lớn người dùng sẽ có trải nghiệm có animation, còn phần ít hơn số người dùng lựa chọn reduced motion, sẽ không bị chóng mặt.
+:gift: In the code box above, when the user hovers over the (box), if they want to reduce motion, the box will increase to 1.2 times immediately. Normally, it will increase to 1.2 times in 300 ms. In this way, most users will experience the animation, while the minority of users who choose reduced motion will not get dizzy.
 
-:movie_camera: Video đính kèm mô tả tính năng này đến từ phần mềm rất quen thuộc là Slack. Khi chúng ta kích hoạt reduced motion, nếu có tin nhắn mới, thông báo sẽ hiện dần dần lên. Còn bình thường, thông báo sẽ đi từ phải trang trái.
+:movie_camera: The attached video describes this feature from a very familiar software, Slack. When we activate the reduced motion, if there is a new message, the notification will gradually appear. Otherwise, the notification will slide in from the right.
 
-:sunglasses: Đây là những tiểu tiết nhỏ, nhưng sẽ là những phần kiến thức giúp bạn trở thành một frontend developer tốt hơn. Luôn đặt mình vào vị trí của người dùng (cụ thể trong trường hợp này là những người dùng gặp chứng rồi loạn tiền đình) sẽ giúp chúng ta tạo ra được những ứng dụng web chất lượng tốt và thân thiện với người dùng.
+:sunglasses: These are small details, but they will be information that helps you become a better frontend developer. Always put yourself in the user's position (specifically in this case, users with vestibular disorders) as it will help you create good quality and user-friendly web applications.
 
 https://user-images.githubusercontent.com/613943/204171890-1ff95622-a23c-45a0-8305-2a08d1ce339c.mp4
 
 https://user-images.githubusercontent.com/613943/204171900-e0378bb5-8d68-4bb6-b8ff-73b2c9474226.mp4
 
-Nếu dùng Mac các bạn có thể activate Reduced Motion ở đây:
+If you are using a Mac, you can activate the Reduced Motion here:
+(Choose the option in the image to reduce motion when using web applications)
 
 ![Navigating to Accessibility in Mac Settings to activate Reduced Motion](https://user-images.githubusercontent.com/613943/204170698-6f50d4aa-470d-4df6-ba87-991e8d95d806.png)
-

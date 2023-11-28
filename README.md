@@ -1,13 +1,80 @@
-# 🎄 Advent Of Frontend
+# 🎄 Advent Of Sharing
 
 [![Written by WeBuild members](https://raw.githubusercontent.com/webuild-community/badge/master/svg/WeBuild-modern.svg)](https://webuild.community)
 [![By Vietnamese](https://raw.githubusercontent.com/webuild-community/badge/master/svg/by-modern.svg)](https://webuild.community)
 
-Advent Of Frontend is the yearly knowledge sharing event, organized by the WeBuild Community.
+Advent Of Sharing is the yearly knowledge sharing event, organized by the WeBuild Community.
 
-All members of the WeBuild Community can participate in this event, on each day, a member will post a small note to share their knowledge in Frontend/Web development.
+All members of the WeBuild Community can participate in this event, on each day, a member will post a small note to share their knowledge of everything.
 
-## 2022
+## 2023
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Mon</th>
+      <th>Tue</th>
+      <th>Wed</th>
+      <th>Thu</th>
+      <th>Fri</th>
+      <th>Sat</th>
+      <th>Sun</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"><a>1</a></td>
+      <td class="text-center"><a>2</a></td>
+      <td class="text-center"><a>3</a></td>
+    </tr>
+    <tr>
+      <td class="text-center"><a>4</a></td>
+      <td class="text-center"><a>5</a></td>
+      <td class="text-center"><a>6</a></td>
+      <td class="text-center"><a>7</a></td>
+      <td class="text-center"><a>8</a></td>
+      <td class="text-center"><a>9</a></td>
+      <td class="text-center"><a>10</a></td>
+    </tr>
+    <tr>
+      <td class="text-center"><a>11</a></td>
+      <td class="text-center"><a>12</a></td>
+      <td class="text-center"><a>13</a></td>
+      <td class="text-center"><a>14</a></td>
+      <td class="text-center"><a>15</a></td>
+      <td class="text-center"><a>16</a></td>
+      <td class="text-center"><a>17</a></td>
+    </tr>
+    <tr>
+      <td class="text-center"><a>18</a></td>
+      <td class="text-center"><a>19</a></td>
+      <td class="text-center"><a>20</a></td>
+      <td class="text-center"><a>21</a></td>
+      <td class="text-center"><a>22</a></td>
+      <td class="text-center"><a>23</a></td>
+      <td class="text-center"><a>24</a></td>
+    </tr>
+    <tr>
+      <td class="text-center"><a>25</a></td>
+      <td class="text-center"><a>26</a></td>
+      <td class="text-center"><a>27</a></td>
+      <td class="text-center"><a>28</a></td>
+      <td class="text-center"><a>29</a></td>
+      <td class="text-center"><a>30</a></td>
+      <td class="text-center"><a>31</a></td>
+    </tr>
+  </tbody>
+</table>
+
+| Day | Note                                                                                                 | Author                                         |
+| --- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| 1   | (TBD)                                                                                                | (TBD)                                          |
+
+## 2022 - Previously known as Advent Of Frontend
 
 <table>
 	<thead>

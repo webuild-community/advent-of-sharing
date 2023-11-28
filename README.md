@@ -23,6 +23,9 @@ All members of the WeBuild Community can participate in this event, on each day,
   </thead>
   <tbody>
     <tr>
+      <td colspan="7" align="center"><b>December 2023</b></td>
+    </tr>
+    <tr>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>

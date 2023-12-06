@@ -1,7 +1,7 @@
 ---
 title: Post title
 author: your username
-date: MM-DD-YYYY
+date: YYYY-MM-DD
 ---
 
 Post content here

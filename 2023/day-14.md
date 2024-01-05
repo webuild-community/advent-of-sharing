@@ -1,7 +1,7 @@
 ---
-title: Function as useEffect's dependency
+title: Side project ký sự: ChatUML
 author: huytd
-date: 2023-12-01
+date: 2023-12-14
 ---
 
 Hẳn mọi người đã từng nghe qua dự án ChatUML. Mình không [dẫn link](https://chatuml.com) hay giới thiệu nhiều về sản phẩm này vì mình bài viết này không nhằm mục đích PR (nếu có thì chỉ là accident mà thôi), mà chỉ muốn kể lại quá trình mình build và grow sản phẩm này từ một bản prototype vớ vẩn trở thành một sản phẩm (vẫn vớ vẩn) phục vụ 50k lượt người dùng mỗi tháng.

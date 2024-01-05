@@ -1,5 +1,5 @@
 ---
-title: Side project ký sự: ChatUML
+title: Side project ký sự - ChatUML
 author: huytd
 date: 2023-12-14
 ---

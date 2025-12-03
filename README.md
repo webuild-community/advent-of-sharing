@@ -7,6 +7,105 @@ Advent Of Sharing is the yearly knowledge sharing event, organized by the WeBuil
 
 All members of the WeBuild Community can participate in this event, on each day, a member will post a small note to share their knowledge of everything.
 
+## 2024
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Sun</th>
+      <th>Mon</th>
+      <th>Tue</th>
+      <th>Wed</th>
+      <th>Thu</th>
+      <th>Fri</th>
+      <th>Sat</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="7" align="center"><b>December 2024</b></td>
+    </tr>
+    <tr>
+      <td class="text-center"><a href="/2024/day-01.md">1</a></td>
+      <td class="text-center"><a href="/2024/day-02.md">2</a></td>
+      <td class="text-center"><a href="/2024/day-03.md">3</a></td>
+      <td class="text-center"><a>4</a></td>
+      <td class="text-center"><a href="/2024/day-05.md">5</a></td>
+      <td class="text-center"><a href="/2024/day-06.md">6</a></td>
+      <td class="text-center"><a href="/2024/day-07.md">7</a></td>
+    </tr>
+    <tr>
+      <td class="text-center"><a href="/2024/day-08.md">8</a></td>
+      <td class="text-center"><a href="/2024/day-09.md">9</a></td>
+      <td class="text-center"><a href="/2024/day-10.md">10</a></td>
+      <td class="text-center"><a href="/2024/day-11.md">11</a></td>
+      <td class="text-center"><a href="/2024/day-12.md">12</a></td>
+      <td class="text-center"><a href="/2024/day-13.md">13</a></td>
+      <td class="text-center"><a href="/2024/day-14.md">14</a></td>
+    </tr>
+    <tr>
+      <td class="text-center"><a href="/2024/day-15.md">15</a></td>
+      <td class="text-center"><a href="/2024/day-16.md">16</a></td>
+      <td class="text-center"><a href="/2024/day-17.md">17</a></td>
+      <td class="text-center"><a href="/2024/day-18.md">18</a></td>
+      <td class="text-center"><a href="/2024/day-19.md">19</a></td>
+      <td class="text-center"><a href="/2024/day-20.md">20</a></td>
+      <td class="text-center"><a href="/2024/day-21.md">21</a></td>
+    </tr>
+    <tr>
+      <td class="text-center"><a href="/2024/day-22.md">22</a></td>
+      <td class="text-center"><a href="/2024/day-23.md">23</a></td>
+      <td class="text-center"><a href="/2024/day-24.md">24</a></td>
+      <td class="text-center"><a href="/2024/day-25.md">25</a></td>
+      <td class="text-center"><a href="/2024/day-26.md">26</a></td>
+      <td class="text-center"><a href="/2024/day-27.md">27</a></td>
+      <td class="text-center"><a href="/2024/day-28.md">28</a></td>
+    </tr>
+    <tr>
+      <td class="text-center"><a href="/2024/day-29.md">29</a></td>
+      <td class="text-center"><a href="/2024/day-30.md">30</a></td>
+      <td class="text-center"><a href="/2024/day-31.md">31</a></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
+  </tbody>
+</table>
+
+| Day | Note                                                                                                 | Author                                         |
+| --- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| 1   | [What's the OKLCH? | Huy's Blog](/2024/day-01.md)                                                                        | [huytd](https://huy.rocks)                     |
+| 2   | [DevOps training: Cẩm nang debug networking - Viblo](/2024/day-02.md)                              | [Minh Monmen](https://gitlab.com/minhpq331)    |
+| 3   | [Tôi làm gì khi tôi review code](/2024/day-03.md)                                                   | [Tuna](https://iamtuna.org)                     |
+| 5   | [Animated SVG Icon with Framer Motion](/2024/day-05.md)                                              | An                                             |
+| 6   | [Errors, Errors Everywhere: How We Centralized and Structured Error Handling](/2024/day-06.md)      | Vũ                                             |
+| 7   | [Insights Into Browser Behavior During URL Changes From A Bug](/2024/day-07.md)                     | duc                                            |
+| 8   | [Understanding Your Plants](/2024/day-08.md)                                                         | Bần                                            |
+| 9   | [LeetCode Starter Kit](/2024/day-09.md)                                                              | [Tuna](https://iamtuna.org)                     |
+| 10  | [Linux Magic System Request Key Hacks](/2024/day-10.md)                                             | [kien](https://github.com/ntk148v)             |
+| 11  | [Một Vài Lưu Ý Khi Lập Lịch Hàng Tháng với EventBridge](/2024/day-11.md)                           | Thanh                                          |
+| 12  | [Smart Skeleton](/2024/day-12.md)                                                                    | An                                             |
+| 13  | [iter.json: A Powerful and Efficient Way to Iterate and Manipulate JSON in Go](/2024/day-13.md)    | Vũ                                             |
+| 14  | [Side-project ký sự: Leetcode Slack Bot | Huy's Blog](/2024/day-14.md)                                    | [huytd](https://huy.rocks)                     |
+| 15  | [Văn hoá giao tiếp & Giao diện người dùng – monody](/2024/day-15.md)                                | [Monody Le](https://minhle.space/)             |
+| 16  | [Where And How To Get Your Plants](/2024/day-16.md)                                                 | Bần                                            |
+| 17  | [next/font is more complicated than you think](/2024/day-17.md)                                     | An                                             |
+| 18  | [Jsonize with Custom Field Name in TypeScript](/2024/day-18.md)                                     | [Tuna](https://iamtuna.org)                     |
+| 19  | [Lạm dụng Parallel(Golang) trong integration test và cách giải quyết](/2024/day-19.md)              | Ngày code nửa tiếng                            |
+| 20  | [ezpkg.io/conveyz: Understanding the Implementation of FConvey](/2024/day-20.md)                    | Vũ                                             |
+| 21  | [Deploy Go lên Vercel và làm ứng dụng hóng hớt | Huy's Blog](/2024/day-21.md)                                    | [huytd](https://huy.rocks)                     |
+| 22  | [My Lesson Learned with Distributed Lock](/2024/day-22.md)                                           | Son Hoang                                      |
+| 23  | [Watering Essentials](/2024/day-23.md)                                                               | Bần                                            |
+| 24  | [Cache Problem – Cache Penetration](/2024/day-24.md)                                                | Son Hoang                                      |
+| 25  | [Command Pattern](/2024/day-25.md)                                                                   | [Tuna](https://iamtuna.org)                     |
+| 26  | [Understanding Streaming by Building a Simple One](/2024/day-26.md)                                  | An                                             |
+| 27  | [Empower diff for testing in your Go code - Part 1](/2024/day-27.md)                                 | Vũ                                             |
+| 28  | [How we migrate a large codebase with module federation](/2024/day-28.md)                            | [vthang](https://vthang.dev)                   |
+| 29  | [Tìm hiểu về Barcode EAN](/2024/day-29.md)                                                           | (TBD)                                          |
+| 30  | [Things You May Already Know About Cookies](/2024/day-30.md)                                         | (TBD)                                          |
+| 31  | [Commit your code in style with git.emoji 🎉](/2024/day-31.md)                                       | Vũ                                             |
+
 ## 2023
 
 <table class="table table-bordered">
@@ -30,36 +129,36 @@ All members of the WeBuild Community can participate in this event, on each day,
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center"><a>1</a></td>
+      <td class="text-center"><a href="/2023/day-01.md">1</a></td>
       <td class="text-center"><a>2</a></td>
       <td class="text-center"><a>3</a></td>
     </tr>
     <tr>
       <td class="text-center"><a>4</a></td>
-      <td class="text-center"><a>5</a></td>
-      <td class="text-center"><a>6</a></td>
-      <td class="text-center"><a>7</a></td>
-      <td class="text-center"><a>8</a></td>
+      <td class="text-center"><a href="/2023/day-05.md">5</a></td>
+      <td class="text-center"><a href="/2023/day-06.md">6</a></td>
+      <td class="text-center"><a href="/2023/day-07.md">7</a></td>
+      <td class="text-center"><a href="/2023/day-08.md">8</a></td>
       <td class="text-center"><a>9</a></td>
       <td class="text-center"><a>10</a></td>
     </tr>
     <tr>
-      <td class="text-center"><a>11</a></td>
+      <td class="text-center"><a href="/2023/day-11.md">11</a></td>
       <td class="text-center"><a>12</a></td>
       <td class="text-center"><a>13</a></td>
-      <td class="text-center"><a>14</a></td>
-      <td class="text-center"><a>15</a></td>
+      <td class="text-center"><a href="/2023/day-14.md">14</a></td>
+      <td class="text-center"><a href="/2023/day-15.md">15</a></td>
       <td class="text-center"><a>16</a></td>
       <td class="text-center"><a>17</a></td>
     </tr>
     <tr>
       <td class="text-center"><a>18</a></td>
-      <td class="text-center"><a>19</a></td>
+      <td class="text-center"><a href="/2023/day-19.md">19</a></td>
       <td class="text-center"><a>20</a></td>
       <td class="text-center"><a>21</a></td>
-      <td class="text-center"><a>22</a></td>
-      <td class="text-center"><a>23</a></td>
-      <td class="text-center"><a>24</a></td>
+      <td class="text-center"><a href="/2023/day-22.md">22</a></td>
+      <td class="text-center"><a href="/2023/day-23.md">23</a></td>
+      <td class="text-center"><a href="/2023/day-24.md">24</a></td>
     </tr>
     <tr>
       <td class="text-center"><a>25</a></td>
@@ -67,15 +166,29 @@ All members of the WeBuild Community can participate in this event, on each day,
       <td class="text-center"><a>27</a></td>
       <td class="text-center"><a>28</a></td>
       <td class="text-center"><a>29</a></td>
-      <td class="text-center"><a>30</a></td>
-      <td class="text-center"><a>31</a></td>
+      <td class="text-center"><a href="/2023/day-30.md">30</a></td>
+      <td class="text-center"><a href="/2023/day-31-01.md">31</a></td>
     </tr>
   </tbody>
 </table>
 
 | Day | Note                                                                                                 | Author                                         |
 | --- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| 1   | (TBD)                                                                                                | (TBD)                                          |
+| 1   | [Function as useEffect's dependency](/2023/day-01.md)                                               | [huytd](https://huy.rocks)                     |
+| 5   | [border-radius thực sự là gì?](/2023/day-05.md)                                                     | [ZeroX-DG](https://viethung.space/)            |
+| 6   | [Backup App's local storage for testing on Android](/2023/day-06.md)                                 | (TBD)                                          |
+| 7   | [Network packet journey in Docker bridge](/2023/day-07.md)                                          | [kien (ntk148v)](https://github.com/ntk148v)   |
+| 8   | [Bàn về developer productivity](/2023/day-08.md)                                                    | [quannt](https://quannt.xyz/)                  |
+| 11  | [An in-comprehensive guide to Local LLM](/2023/day-11.md)                                            | [huytd](https://huy.rocks)                     |
+| 14  | [Side project ký sự - ChatUML](/2023/day-14.md)                                                     | [huytd](https://huy.rocks)                     |
+| 15  | [Sử dụng useSyncExternalStore để subscribe external data changes](/2023/day-15.md)                  | [ducan-ne](https://github.com/ducan-ne)        |
+| 19  | [An over-engineering guide to sync Obsidian for free](/2023/day-19.md)                               | [huytd](https://huy.rocks)                     |
+| 22  | [A clumsy Docker networking notes](/2023/day-22.md)                                                  | [kien (ntk148v)](https://github.com/ntk148v)   |
+| 23  | [Sử dụng native ESM browser để dựng 1 Micro FE App](/2023/day-23.md)                                | [ducan-ne](https://github.com/ducan-ne)        |
+| 24  | [Tìm hiểu về SVG](/2023/day-24.md)                                                                   | [xuanvan](https://xuanvan-dev.vercel.app/)     |
+| 30  | [Xem đất 101](/2023/day-30.md)                                                                       | [ledongthuc](https://thuc.space/)              |
+| 30-2| [GitlabCI và tuyệt thế võ học tối ưu pipeline](/2023/day-30-2.md)                                    | [Minh Monmen](https://gitlab.com/minhpq331)    |
+| 31  | [DIY Chat with Document with Ollama](/2023/day-31-01.md)                                            | [huytd](https://huy.rocks)                     |
 
 ## 2022 - Previously known as Advent Of Frontend
 
